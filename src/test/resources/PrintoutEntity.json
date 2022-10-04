@@ -1,0 +1,10 @@
+{
+  "printoutDetails": {
+    "printoutFormat": {
+      "code": "PDF"
+    }
+  },
+  "printoutStatus": {
+    "code": "SUCCESS"
+  }
+}
